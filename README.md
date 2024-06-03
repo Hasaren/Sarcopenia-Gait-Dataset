@@ -1,6 +1,8 @@
 # Sarcopenia Gait Dataset
 =========================
 ### subject info
+Sarcopenia yes : 1
+Sarcopenia no : 0
 | Date         | subject_ID | gender | age | Sarcopenia  |
 |--------------|------------|--------|-----|-------------|
 | 2023-04-22-2 | 6          | F      | 30  | 0           |
